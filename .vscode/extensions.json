@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "eg2.tslint",
+    "EditorConfig.EditorConfig",
+    "christian-kohler.path-intellisense",
+    "mike-co.import-sorter",
+    "mikestead.dotenv",
+    "Orta.vscode-jest"
+  ]
+}

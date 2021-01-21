@@ -1,0 +1,34 @@
+Feature Commits: 
+
+Sample: 
+Feature - v1.1.0 - BOAST - Visual enhancements
+______________________________________________
+1. Pie chart addition.
+2. Bar chart addition.
+______________________________________________
+
+Feature - Framework Commits: 
+
+Sample: 
+Feature/FW - v1.1.0 - BOAST - Component enhancements
+____________________________________________________
+1. Pie chart addition.
+2. Bar chart addition.
+____________________________________________________
+
+Bugfix Commit: 
+
+Sample: 
+Bugfix - v1.1.0 - BOAST -  Case 123
+_____________________________________
+1. Pie chart addition.
+2. Bar chart addition.
+_____________________________________
+
+
+Branch creation for new report/bugfix/framework/feature:
+
+git co -b reports/<report-name>
+git co -b bugfix/<CaseID/report-name - short-description>
+git co -b fw/<short-description>
+git co -b feature/<short-feature-name>

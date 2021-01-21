@@ -1,0 +1,4 @@
+To resolve hucky issue try below solutions:
+1. git core.hookspath was wrong due to previous githooks configuration in our repo, unsetting it via "git config --unset core.hookspath" worked perfectly.
+2. remove all pre-commit lint-staged and husky packages and reinstall all and 
+follow the official husky documentation for the setup.
